@@ -1,7 +1,7 @@
 iterm2-alfred-git-clone
 =======================
 
-Applescript extension for the Alfredapp. Opens the currently active Finder folder in iTerm2, and then starts cloning a git repository from a URL.
+Applescript extension for the Alfredapp. Opens the currently active Finder folder in iTerm2, and then starts cloning the git repository from the specified URL.
 
 Usage:
 
