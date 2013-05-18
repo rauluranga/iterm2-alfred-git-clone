@@ -1,0 +1,1 @@
+osascript GitClone.scpt {query}
